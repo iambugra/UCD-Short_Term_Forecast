@@ -5,4 +5,8 @@ With the spirit of reproducible research, this repository contains all the codes
 
 > Alparslan, B., Dev, S., Short Term Forecasting on Atmospheric Air Pollutants Using SARIMA Method, *under review*.
 
-Throuhout this project, __python3__ is used.
+Throuhout this project, `python3` is used.
+
+### Dependencies
+
+numpy: `pip3 install numpy` 
