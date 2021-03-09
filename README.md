@@ -26,4 +26,5 @@ Source of the data used in this work is Central Control Room for Air Quality Man
 - `defns.py`: Definitions of some functions used in `automate.py`.
 - `stropns.py`: This file has some functions that does some string operations.
 - `ljungbox.py`: Implementation of Ljung-Box test. Work is done by [Bhavesh Bhatt](github.com/bhattbhavesh91/time_series_notebooks)
+- `rand_5_data.txt`: 5 randomly selected samples used in this work.
 - `short-term-fcast-sarima.ipynb`: 
