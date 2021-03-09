@@ -20,7 +20,7 @@ pynput 1.6.8: `pip3 install pynput `
 Source of the data used in this work is Central Control Room for Air Quality Management - Delhi NCR ([See here](https://app.cpcbccr.com/ccr/#/caaqm-dashboard/caaqm-landing/caaqm-comparison-data)). You can reach the samples used in this work from [here](https://drive.google.com/drive/folders/1sIITvGDrgwuL7oD5GS2AbD_0d4TyzOYL?usp=sharing).
 
 ### Scripts
-- `automate.py`: 
-- `defns.py`: 
+- `automate.py`: This file is used to download the required data files from above-mentioned link automatically. One can download the csv files directly from the second link in the data seciton or run this python file.
+- `defns.py`: Definitions of some functions used in `automate.py`.
 - `ljungbox.py`:
 - `short-term-fcast-sarima.ipynb`:
