@@ -15,3 +15,12 @@ matplotlib 3.3.0: `pip3 install matplotlib` <br>
 statsmodels 0.11.1: `pip3 install statsmodels` <br>
 selenium 3.141.0: `pip3 install selenium` <br>
 pynput 1.6.8: `pip3 install pynput `
+
+### Data
+Source of the data used in this work is Central Control Room for Air Quality Management - Delhi NCR ([See here](https://app.cpcbccr.com/ccr/#/caaqm-dashboard/caaqm-landing/caaqm-comparison-data)). You can reach the samples used in this work from [here](https://drive.google.com/drive/folders/1sIITvGDrgwuL7oD5GS2AbD_0d4TyzOYL?usp=sharing).
+
+### Scripts
+- `automate.py`: 
+- `defns.py`: 
+- `ljungbox.py`:
+- `short-term-fcast-sarima.ipynb`:
