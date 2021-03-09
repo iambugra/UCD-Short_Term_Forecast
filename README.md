@@ -14,8 +14,8 @@ pandas 1.0.5: `pip3 install pandas` <br>
 matplotlib 3.3.0: `pip3 install matplotlib` <br>
 statsmodels 0.11.1: `pip3 install statsmodels` <br>
 selenium 3.141.0: `pip3 install selenium` <br>
-pynput 1.6.8: `pip3 install pynput `
-statistics 1.0.3.5: `pip3 install statistics`
+pynput 1.6.8: `pip3 install pynput ` <br>
+statistics 1.0.3.5: `pip3 install statistics` <br>
 sklearn 0.23.2: `pip3 install sklearn`
 
 ### Data
