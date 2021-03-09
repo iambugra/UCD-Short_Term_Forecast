@@ -22,5 +22,6 @@ Source of the data used in this work is Central Control Room for Air Quality Man
 ### Scripts
 - `automate.py`: This file is used to download the required data files from above-mentioned link automatically. One can download the csv files directly from the second link in the data seciton or run this python file.
 - `defns.py`: Definitions of some functions used in `automate.py`.
+- `stropns.py`: 
 - `ljungbox.py`:
 - `short-term-fcast-sarima.ipynb`:
