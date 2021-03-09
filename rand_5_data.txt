@@ -1,0 +1,5 @@
+Anand Vihar 11 2018 PM10
+Anand Vihar 11 2018 PM2.5
+Punjabi Bagh 2 2018 PM10
+Punjabi Bagh 7 2018 PM2.5
+Punjabi Bagh 10 2018 Ozone
