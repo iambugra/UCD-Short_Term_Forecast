@@ -22,9 +22,11 @@ sklearn 0.23.2: `pip3 install sklearn`
 Source of the data used in this work is Central Control Room for Air Quality Management - Delhi NCR ([See here](https://app.cpcbccr.com/ccr/#/caaqm-dashboard/caaqm-landing/caaqm-comparison-data)). You can reach the samples used in this work from [here](https://drive.google.com/drive/folders/1sIITvGDrgwuL7oD5GS2AbD_0d4TyzOYL?usp=sharing).
 
 ### Scripts
-- `automate.py`: This file is used to download the required data files from above-mentioned link automatically. One can download the csv files directly from the second link in the data seciton or run this python file.
+- `automate.py`: This file is used to download the required data files from above-mentioned link automatically. One can download the csv files directly from the second link in the data section or run this python file (downloaded excel files should be saved as csv files).
 - `defns.py`: Definitions of some functions used in `automate.py`.
-- `stropns.py`: This file has some functions that does some string operations.
+- `stropns.py`: Some string operations.
 - `ljungbox.py`: Implementation of Ljung-Box test. Work is done by [Bhavesh Bhatt](github.com/bhattbhavesh91/time_series_notebooks)
 - `rand_5_data.txt`: 5 randomly selected samples used in this work.
-- `short-term-fcast-sarima.ipynb`: 
+- `short-term-fcast-sarima.ipynb`: A program that step by step forecasts a pollution data.
+- `make_test.py`: Main program that runs the model and produces results in seperate text files.
+- `read_results.py` : Evaluates the results from `make_test.py` and creates the statistics of __Results__ section in the paper.
